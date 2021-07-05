@@ -1,0 +1,4 @@
+Severity,ID,Service / Domain Name,Date / Time,Anomaly Type,Activity Type,Response,User Risk Level,User / IP Address,Anomaly Value,Threshold,DestinationHost
+High,749047685,Box,19-Nov-2015 19:56:49,Content Inspection,Discovered,Quarantined,High,skyhigh.qaas@gmail.com,OF-960,,api.box.com
+High,749047686,Box,19-Nov-2015 19:57:16,Content Inspection,Discovered,Deleted,High,skyhigh.qaas@gmail.com,OF-966,,api.box.com
+High,749047687,Box,19-Nov-2015 19:57:58,Content Inspection,Discovered,Deleted,High,skyhigh.qaas@gmail.com,OF-966,,api.box.com
